@@ -184,6 +184,7 @@ html, body {
 }
 
 .main {
+  padding-top: 60px;
   position: relative;
   display: flex;
   align-items: center;
